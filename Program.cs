@@ -25,16 +25,16 @@ public class Program
             Console.WriteLine(item);   
         }
 
-        PrimeNumbers primeNnumers = new PrimeNumbers();
-        foreach (int item in primeNnumers)
-        {
-            Console.WriteLine(item);   
-        }
+        // PrimeNumbers primeNnumers = new PrimeNumbers();
+        // foreach (int item in primeNnumers)
+        // {
+        //     Console.WriteLine(item);   
+        // }
 
-        foreach (int item in Power(2, 20))
-        {
-            Console.WriteLine(item);
-        }
+        // foreach (int item in Power(2, 20))
+        // {
+        //     Console.WriteLine(item);
+        // }
     }
 };
 
